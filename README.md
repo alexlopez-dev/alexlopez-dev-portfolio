@@ -1,16 +1,43 @@
-# 👋 Hi, I'm Alex Lopez
-Automotive electrical specialist transitioning into Cloud & DevOps.
+# 💼 Alex Lopez — Cloud & DevOps Portfolio
 
-## 🧰 Tech Stack
-- 🐧 Linux | 🐳 Docker | ☁️ AWS | 🔧 Ansible | 🚀 CI/CD | 🧠 Python
+This repository serves as a curated portfolio of my Cloud and DevOps projects.
+Each folder or linked repository highlights a specific toolset, concept, or hands-on build.
 
-## 🔨 Featured Projects
-- **Rott3nLab Home Server** — Proxmox + Docker + Ubiquiti Cloud Gateway
-- **Biometric Car Ignition System** — Arduino Nano + OLED + Fingerprint Scanner
-- **DevOps Lab** — Automated cloud infrastructure experiments (IaC)
+---
 
-## 📫 Connect
-- 🌐 [raw10lab.com](https://raw10lab.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/alex-lopez-dev/)
-- 🧑‍💻 [GitHub Projects](https://github.com/alexlopez-dev?tab=repositories)
-# devops-lab
+## 🚀 Featured Projects
+
+### 🧱 Homelab Infrastructure-as-Code
+**Repo:** [raw10lab](https://github.com/alexlopez-dev/raw10lab)  
+Automated home-lab environment using Proxmox, Docker, and Terraform modules.  
+Includes VLAN segmentation, 10 GbE network design, and Ansible provisioning.
+
+---
+
+### 🐳 Containerized App with CI/CD
+**Repo:** [containerized-app-cicd](https://github.com/alexlopez-dev/containerized-app-cicd) *(coming soon)*  
+Demonstrates automated build → test → deploy pipeline using GitHub Actions and Docker Compose.
+
+---
+
+### 🔒 Server Hardening with Ansible
+**Repo:** [ansible-server-hardening](https://github.com/alexlopez-dev/ansible-server-hardening) *(coming soon)*  
+CIS-aligned playbooks for SSH, users, firewall, and logging.
+
+---
+
+## 🧠 Tech Focus
+Terraform • Docker • Ansible • GitHub Actions • Kubernetes • AWS • Linux
+
+---
+
+## 📈 Next Steps
+- Finish CI/CD demo pipeline  
+- Add Grafana + Prometheus monitoring stack  
+- Deploy Cloud Resume Challenge project on AWS
+
+---
+
+## 🌐 Connect
+- Portfolio: [raw10lab.com](https://raw10lab.com)  
+- LinkedIn: [linkedin.com/in/alexlopez-dev](https://linkedin.com/in/alexlopez-dev)
