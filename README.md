@@ -1,7 +1,13 @@
 # 💼 Alex Lopez — Cloud & DevOps Portfolio
 
+![Last Commit](https://img.shields.io/github/last-commit/alexlopez-dev/alexlopez-dev-portfolio)
+![Repo Size](https://img.shields.io/github/repo-size/alexlopez-dev/alexlopez-dev-portfolio)
+![Contributors](https://img.shields.io/github/contributors/alexlopez-dev/alexlopez-dev-portfolio)
+![License](https://img.shields.io/github/license/alexlopez-dev/alexlopez-dev-portfolio)
+
 This repository serves as a curated portfolio of my Cloud and DevOps projects.
 Each folder or linked repository highlights a specific toolset, concept, or hands-on build.
+
 
 ---
 
