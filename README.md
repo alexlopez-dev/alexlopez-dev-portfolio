@@ -11,6 +11,6 @@ Automotive electrical specialist transitioning into Cloud & DevOps.
 
 ## 📫 Connect
 - 🌐 [raw10lab.com](https://raw10lab.com)
-- 💼 [LinkedIn](https://linkedin.com/in/alexlopez-dev)
+- 💼 [LinkedIn](www.linkedin.com/in/alex-lopez-dev)
 - 🧑‍💻 [GitHub Projects](https://github.com/alexlopez-dev?tab=repositories)
 # devops-lab
